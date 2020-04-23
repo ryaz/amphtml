@@ -40,10 +40,10 @@ import {getServicePromiseForDoc} from '../../../src/service';
 import {lastItem} from '../../../src/utils/array';
 
 /** @const {number} */
-const FIRST_AD_MIN = 7;
+const FIRST_AD_MIN = 5;
 
 /** @const {number} */
-const MIN_INTERVAL = 7;
+const MIN_INTERVAL = 5;
 
 /** @const {string} */
 const TAG = 'amp-story-auto-ads';
